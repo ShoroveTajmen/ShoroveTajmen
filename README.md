@@ -13,6 +13,7 @@
 - ## 🌐 Get in touch with me:
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shorove-tajmen/)
    [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/shorove.tajmen?mibextid=kFxxJD)
+   [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](sorovitajmen@gmail.com)
 
 
  # 💻Technologies that I am familiar with:
