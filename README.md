@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![](https://visitcount.itsvg.in/api?id=ShoroveTajmen&icon=0&color=0)](https://visitcount.itsvg.in)
 ![Banner Image Alt Text](https://i.ibb.co/xJZrqTB/393159016-904953577644775-6787729039889707864-n.png)
 
 
@@ -26,6 +27,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShoroveTajmen&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShoroveTajmen&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
