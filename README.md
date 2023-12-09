@@ -13,8 +13,8 @@
 
 
 ## 🌐 Get in touch with me:
-- [LinkedIn](https://www.facebook.com/shorove.tajmen?mibextid=kFxxJD)
-- [Facebook Link](Your-Frontend-GitHub-Link)
+- [LinkedIn](https://www.linkedin.com/in/shorove-tajmen/)
+- [Facebook Link](https://www.facebook.com/shorove.tajmen?mibextid=kFxxJD)
 
 
 
