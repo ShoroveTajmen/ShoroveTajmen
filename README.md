@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Banner Image Alt Text]()
+![Banner Image Alt Text](https://i.ibb.co/xJZrqTB/393159016-904953577644775-6787729039889707864-n.png)
 
 
 ##  👨‍💻 About Me:
