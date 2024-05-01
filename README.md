@@ -4,9 +4,9 @@
 
 
 ##  👨‍💻 About Me:
-- 🔭 I'm Shorove Tajmen a motivated junior MERN stack developer actively seeking exciting opportunities in the tech industry. Proficient in MongoDB, Express.js, React, and Node.js, I'm passionate about translating ideas into responsive and user-friendly       web applications.
-- 🌱 As a recent graduate with hands-on experience in building projects, I bring a fresh perspective and a hunger to learn. I'm eager to contribute to a dynamic team and further develop my skills in a real-world professional setting.
-- 🚀 I have been doing programming practice for more than three years, simultaneously learning web development and worked on research for almost two years. Building my career mostly working with Java, Python, JavaScript, Machine Learning, and Deep             Learning. Currently I am exploring next.js and socket.io.
+- 🔭 Hello! I'm Shorove Tajmen, a junior software engineer excited about tech. I specialize in the MERN stack—MongoDB, Express.js, React, and Node.js—and enjoy creating smooth, user-friendly web apps.
+- 🌱 Fresh out of university, I've already built projects and I'm eager to keep learning. I'm looking for a team where I can grow professionally.
+- 🚀 With over three years of coding experience, I've tried web development, machine learning, and deep learning. Recently, I've been learning more new technology to expand my skills.
 - 💻 Let's connect and explore how my enthusiasm for coding. Open to new challenges and always ready to grow in the ever-evolving world of web development!
 
 
